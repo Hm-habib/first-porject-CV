@@ -8,4 +8,5 @@ Section
 Div
 Text (h1-h6)
 UL, li
-Table , etc
+Table 
+Use anchor tag, and img tag, etc
